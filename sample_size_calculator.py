@@ -1,7 +1,7 @@
 import streamlit as st
 import math
 import pandas as pd
-import plotly.graph_express as px
+import plotly.express as px
 import plotly.graph_objects as go
 
 # Set page configuration
